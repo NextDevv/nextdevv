@@ -14,9 +14,6 @@ class Main {
 
 ---
 
-
-## 🌐 Let's Connect
-
 - **Website:** [nextdevv.com](https://nextdevv.com)
 - **Discord:** nextdevv
   
